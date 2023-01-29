@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Goldsmiths Food Finder](https://github.com/zakplum/goldsmiths-food-finder)
 
-- 🌱 I’m currently learning **Java and React**
+- 🌱 I’m currently learning **Java and ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
