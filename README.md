@@ -16,4 +16,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zakplum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zakplum" /></a></p><br><br>
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakplum&show_icons=true&locale=en&layout=compact" alt="zakplum" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakplum&layout=compact" alt="zakplum" /></p>
