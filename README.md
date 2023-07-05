@@ -1,9 +1,8 @@
 <h4 align="left">Hi there👋</h4>
 <h4 align="left">My name is Zak Plumridge and I'm currently studying BSc Computer Science at Goldsmiths, University of London</h4>
 
-🔭 I’m currently working on [Goldsmiths Food Finder](https://github.com/zakplum/GoldFF)
 
-🌱 I’m currently learning **Python and ReactJS**
+🌱 I’m currently learning **Python**
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
