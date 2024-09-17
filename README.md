@@ -1,8 +1,9 @@
 <h4 align="left">Hi there👋</h4>
-<h4 align="left">My name is Zak Plumridge and I'm currently studying BSc Computer Science at Goldsmiths, University of London</h4>
+<h4 align="left">My name is Zak Plumridge and I'm a recent graduate from Goldsmiths, University of London where I studied Computer Science BSc</h4>
 
 
-🌱 I’m currently learning **Python**
+🌱 I’m currently working on [**If You Care To Know**](https://ifyoucaretoknow.com) a platform dedicated to using data science for good.
+
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
