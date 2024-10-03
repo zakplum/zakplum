@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [If You Care To Know](https://ifyoucaretoknow.com/)
 - 👯 I’m looking to collaborate on **Data Science projects**
-- 👨‍💻 Check out my portfolio at **zakplumridge.co.uk**
+- 👨‍💻 Check out my portfolio at [Zak Plumridge](https://zakplumridge.co.uk/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
